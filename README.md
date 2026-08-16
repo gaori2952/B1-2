@@ -28,5 +28,5 @@
 * GOLD Chicken 광고 영상
 * 스토리보드 및 제작 보고서
 
-* 
+## 동영상 편집
 <img width="970" height="501" alt="image" src="https://github.com/user-attachments/assets/c2364242-4f8e-4abc-a3be-dad7561ddd07" />
